@@ -38,3 +38,7 @@
 	path = odoo-costa-rica
 	url = git@github.com:ClearCorp/odoo-costa-rica.git
 	branch = 10.0
+[submodule "odoo-einvoicing"]
+	path = odoo-einvoicing
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 10.0
