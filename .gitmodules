@@ -2,3 +2,7 @@
 	path = addons-vauxoo
 	url = git@github.com:vauxoo/addons-vauxoo
 	branch = 10.0
+[submodule "imesa"]
+	path = imesa
+	url = git@github.com:ClearCorp/imesa.git
+	branch = 10.0
