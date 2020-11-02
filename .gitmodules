@@ -18,3 +18,7 @@
 	path = oca-server-tools
 	url = git@github.com:clearcorp/oca-server-tools
 	branch = 10.0
+[submodule "oca-stock-logistics-warehouse"]
+	path = oca-stock-logistics-warehouse
+	url = git@github.com:clearcorp/oca-stock-logistics-warehouse
+	branch = 10.0
