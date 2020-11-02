@@ -22,3 +22,7 @@
 	path = oca-stock-logistics-warehouse
 	url = git@github.com:clearcorp/oca-stock-logistics-warehouse
 	branch = 10.0
+[submodule "web"]
+	path = web
+	url = git@github.com:oca/web
+	branch = 10.0
