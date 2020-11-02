@@ -1,0 +1,4 @@
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:vauxoo/addons-vauxoo
+	branch = 10.0
