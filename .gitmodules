@@ -26,3 +26,7 @@
 	path = web
 	url = git@github.com:oca/web
 	branch = 10.0
+[submodule "odoo-addons-1"]
+	path = odoo-addons-1
+	url = https://github.com/sistemasdedatos/odoo-addons-1.git
+	branch = 10.0
