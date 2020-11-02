@@ -10,3 +10,7 @@
 	path = mhq-odoo-addons
 	url = git@github.com:minhhq09/mhq-odoo-addons
 	branch = 10.0
+[submodule "oca-account-financial-tools"]
+	path = oca-account-financial-tools
+	url = git@github.com:clearcorp/oca-account-financial-tools
+	branch = 10.0
