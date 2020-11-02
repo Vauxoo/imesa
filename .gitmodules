@@ -30,3 +30,7 @@
 	path = odoo-addons-1
 	url = https://github.com/sistemasdedatos/odoo-addons-1.git
 	branch = 10.0
+[submodule "odoo-clearcorp"]
+	path = odoo-clearcorp
+	url = git@github.com:ClearCorp/odoo-clearcorp.git
+	branch = 10.0
