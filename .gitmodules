@@ -6,3 +6,7 @@
 	path = imesa
 	url = git@github.com:ClearCorp/imesa.git
 	branch = 10.0
+[submodule "mhq-odoo-addons"]
+	path = mhq-odoo-addons
+	url = git@github.com:minhhq09/mhq-odoo-addons
+	branch = 10.0
