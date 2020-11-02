@@ -34,3 +34,7 @@
 	path = odoo-clearcorp
 	url = git@github.com:ClearCorp/odoo-clearcorp.git
 	branch = 10.0
+[submodule "odoo-costa-rica"]
+	path = odoo-costa-rica
+	url = git@github.com:ClearCorp/odoo-costa-rica.git
+	branch = 10.0
