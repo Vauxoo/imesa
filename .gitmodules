@@ -22,8 +22,8 @@
 	path = oca-stock-logistics-warehouse
 	url = git@github.com:clearcorp/oca-stock-logistics-warehouse
 	branch = 10.0
-[submodule "web"]
-	path = web
+[submodule "oca-web"]
+	path = oca-web
 	url = git@github.com:oca/web
 	branch = 10.0
 [submodule "odoo-addons-1"]
