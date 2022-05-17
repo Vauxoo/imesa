@@ -1,44 +1,8 @@
-[submodule "addons-vauxoo"]
-	path = addons-vauxoo
-	url = git@github.com:vauxoo/addons-vauxoo
-	branch = 10.0
 [submodule "imesa"]
 	path = imesa
-	url = git@github.com:ClearCorp/imesa.git
-	branch = 10.0
-[submodule "mhq-odoo-addons"]
-	path = mhq-odoo-addons
-	url = git@github.com:minhhq09/mhq-odoo-addons
-	branch = 10.0
-[submodule "oca-account-financial-tools"]
-	path = oca-account-financial-tools
-	url = git@github.com:clearcorp/oca-account-financial-tools
-	branch = 10.0
-[submodule "oca-server-tools"]
-	path = oca-server-tools
-	url = git@github.com:vauxoo/server-tools
-	branch = 10.0
-[submodule "oca-stock-logistics-warehouse"]
-	path = oca-stock-logistics-warehouse
-	url = git@github.com:clearcorp/oca-stock-logistics-warehouse
-	branch = 10.0
-[submodule "oca-web"]
-	path = oca-web
-	url = git@github.com:oca/web
-	branch = 10.0
-[submodule "odoo-addons-1"]
-	path = odoo-addons-1
-	url = https://github.com/sistemasdedatos/odoo-addons-1.git
-	branch = 10.0
-[submodule "odoo-clearcorp"]
-	path = odoo-clearcorp
-	url = git@github.com:ClearCorp/odoo-clearcorp.git
-	branch = 10.0
-[submodule "odoo-costa-rica"]
-	path = odoo-costa-rica
-	url = git@github.com:ClearCorp/odoo-costa-rica.git
-	branch = 10.0
-[submodule "odoo-einvoicing"]
-	path = odoo-einvoicing
-	url = git@git.vauxoo.com:vauxoo/costarica.git
-	branch = 10.0
+	url = git@git.vauxoo.com:vauxoo/imesa.git
+	branch = 15.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 15.0
