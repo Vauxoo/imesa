@@ -6,3 +6,7 @@
 	path = sh-tools
 	url = git@git.vauxoo.com:vauxoo/sh-tools.git
 	branch = 15.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:Vauxoo/account-invoicing.git
+	branch = 15.0
