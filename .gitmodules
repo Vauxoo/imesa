@@ -10,3 +10,7 @@
 	path = stock-logistics-warehouse
 	url = git@github.com:Vauxoo/stock-logistics-warehouse.git
 	branch = 15.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 15.0
