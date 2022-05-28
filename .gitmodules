@@ -14,3 +14,7 @@
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
 	branch = 15.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:Vauxoo/account-invoicing.git
+	branch = 15.0
