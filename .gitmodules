@@ -18,3 +18,7 @@
 	path = account-invoicing
 	url = git@github.com:Vauxoo/account-invoicing.git
 	branch = 15.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:Vauxoo/product-attribute.git
+	branch = 15.0
