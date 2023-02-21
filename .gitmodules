@@ -26,3 +26,7 @@
 	path = project
 	url = git@github.com:Vauxoo/project.git
 	branch = 15.0
+[submodule "l10n-cr-payroll"]
+	path = l10n-cr-payroll
+	url = git@git.vauxoo.com:vauxoo/l10n-cr-payroll.git
+	branch = 15.0
