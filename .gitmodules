@@ -30,3 +30,7 @@
 	path = l10n-cr-payroll
 	url = git@git.vauxoo.com:vauxoo/l10n-cr-payroll.git
 	branch = 15.0
+[submodule "hr-advanced"]
+	path = hr-advanced
+	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
+	branch = 15.0
