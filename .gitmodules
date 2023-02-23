@@ -34,3 +34,7 @@
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
 	branch = 15.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:Vauxoo/purchase-workflow.git
+	branch = 15.0
