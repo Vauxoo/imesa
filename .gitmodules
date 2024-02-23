@@ -1,7 +1,7 @@
 [submodule "imesa"]
 	path = imesa
 	url = git@git.vauxoo.com:vauxoo/imesa.git
-	branch = 15.0
+	branch = 15.0-format_journals-CLaurelB
 [submodule "sh-tools"]
 	path = sh-tools
 	url = git@git.vauxoo.com:vauxoo/sh-tools.git
