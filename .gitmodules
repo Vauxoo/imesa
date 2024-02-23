@@ -38,3 +38,7 @@
 	path = purchase-workflow
 	url = git@github.com:Vauxoo/purchase-workflow.git
 	branch = 15.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:Vauxoo/partner-contact.git
+	branch = 15.0
